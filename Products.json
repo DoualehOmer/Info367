@@ -1,0 +1,152 @@
+[
+  {
+    "NAME": "Bottled_Sprite_Small",
+    "GRPH": "Sprite_Logo",
+    "CP": "2.99",
+    "MSRP": "2.95",
+    "QTY_H": "23",
+    "QTY_BO": "50",
+    "DESC": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "BRAND": "Sprite"
+  },
+  {
+    "NAME": "Bottled_Sprite_Large",
+    "GRPH": "Sprite_Logo",
+    "CP": "5.99",
+    "MSRP": "4.95",
+    "QTY_H": "11",
+    "QTY_BO": "60",
+    "DESC": "Etiam a ligula egestas, dictum ipsum in, ultricies ligula.",
+    "BRAND": "Sprite"
+  },
+  {
+    "NAME": "Canned_Sprite_Small",
+    "GRPH": "Sprite_Logo",
+    "CP": "1.99",
+    "MSRP": "1.95",
+    "QTY_H": "29",
+    "QTY_BO": "30",
+    "DESC": "Integer eu leo tincidunt arcu tempus fringilla id vel metus.",
+    "BRAND": "Sprite"
+  },
+  {
+    "NAME": "Tic_Tac_Sprite_Pack",
+    "GRPH": "Sprite_Logo",
+    "CP": "3.99",
+    "MSRP": "4.95",
+    "QTY_H": "23",
+    "QTY_BO": "50",
+    "DESC": "Praesent luctus felis a purus tincidunt, eget lacinia mauris ornare.",
+    "BRAND": "Sprite"
+  },
+  {
+    "NAME": "Bottled_Sprite_Small_Tropical_Mix",
+    "GRPH": "Sprite_Logo",
+    "CP": "3.99",
+    "MSRP": "2.95",
+    "QTY_H": "23",
+    "QTY_BO": "50",
+    "DESC": "Quisque ornare dui non turpis venenatis, sed laoreet ante ultrices.",
+    "BRAND": "Sprite"
+  },
+  {
+    "NAME": "Bottled_Coca_Cola_Small",
+    "GRPH": "Coca_Cola_Logo",
+    "CP": "2.99",
+    "MSRP": "2.95",
+    "QTY_H": "23",
+    "QTY_BO": "50",
+    "DESC": "Pellentesque ac nunc et nunc lacinia cursus.",
+    "BRAND": "Coca Cola"
+  },
+  {
+    "NAME": "Bottled_CocaCola_Large",
+    "GRPH": "Coca_Cola_Logo",
+    "CP": "5.99",
+    "MSRP": "4.95",
+    "QTY_H": "11",
+    "QTY_BO": "60",
+    "DESC": "Morbi at quam varius, ornare ligula id, congue dui.",
+    "BRAND": "Coca Cola"
+  },
+  {
+    "NAME": "Canned_Coca_Cola_Small",
+    "GRPH": "Coca_Cola_Logo",
+    "CP": "1.99",
+    "MSRP": "1.95",
+    "QTY_H": "29",
+    "QTY_BO": "30",
+    "DESC": "Sed tincidunt velit et porttitor vehicula.",
+    "BRAND": "Coca Cola"
+  },
+  {
+    "NAME": "Tic_Tac_Coca_Cola_Pack",
+    "GRPH": "Coca_Cola_Logo",
+    "CP": "3.99",
+    "MSRP": "4.95",
+    "QTY_H": "23",
+    "QTY_BO": "50",
+    "DESC": "Donec scelerisque odio ut finibus congue.",
+    "BRAND": "Coca Cola"
+  },
+  {
+    "NAME": "Bottled_Coca_Cola_Orange_Mix",
+    "GRPH": "Coca_Cola_Logo",
+    "CP": "3.99",
+    "MSRP": "2.95",
+    "QTY_H": "23",
+    "QTY_BO": "50",
+    "DESC": "Ut non felis aliquet, dapibus metus non, tincidunt purus.",
+    "BRAND": "Coca Cola"
+  },
+  {
+    "NAME": "Bottled_Pepsi_Small",
+    "GRPH": "Pepsi_Logo",
+    "CP": "2.99",
+    "MSRP": "2.95",
+    "QTY_H": "23",
+    "QTY_BO": "50",
+    "DESC": "Integer vitae eros eget odio pretium semper.",
+    "BRAND": "Pepsi"
+  },
+  {
+    "NAME": "Bottled_Pepsi_Large",
+    "GRPH": "Pepsi_Logo",
+    "CP": "5.99",
+    "MSRP": "4.95",
+    "QTY_H": "11",
+    "QTY_BO": "60",
+    "DESC": "Aliquam hendrerit enim vel neque scelerisque pulvinar",
+    "BRAND": "Pepsi"
+  },
+  {
+    "NAME": "Canned_Pepsi_Small",
+    "GRPH": "Pepsi_Logo",
+    "CP": "1.99",
+    "MSRP": "1.95",
+    "QTY_H": "29",
+    "QTY_BO": "30",
+    "DESC": "Etiam dignissim libero a scelerisque tempus.",
+    "BRAND": "Pepsi"
+  },
+  {
+    "NAME": "Tic_Tac_Pepsi_Pack",
+    "GRPH": "Pepsi_Logo",
+    "CP": "3.99",
+    "MSRP": "4.95",
+    "QTY_H": "27",
+    "QTY_BO": "25",
+    "DESC": "Curabitur feugiat purus id fermentum sollicitudin.",
+    "BRAND": "Pepsi"
+  },
+  {
+    "NAME": "Bottled_Pepsi_Strawberry_Mix",
+    "GRPH": "Pepsi_Logo",
+    "CP": "3.99",
+    "MSRP": "2.95",
+    "QTY_H": "26",
+    "QTY_BO": "54",
+    "DESC": "Quisque a velit vitae lectus porttitor feugiat a vel justo.",
+    "BRAND": "Pepsi"
+  }
+]
